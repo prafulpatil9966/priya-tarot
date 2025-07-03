@@ -5749,7 +5749,7 @@ form textarea:required:valid {
 .item {
   position: relative;
   width: 45vw;
-  height: auto;
+  height: 500px;
   background-color: var(--base);
   -moz-border-radius: 20px;
   border-radius: 20px;
