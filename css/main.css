@@ -5769,6 +5769,8 @@ form textarea:required:valid {
   animation: animateZ 1s infinite;
 }
 
+
+
 .item.item-regular {
   width: auto;
   -moz-border-radius: 0;
@@ -6159,6 +6161,15 @@ form textarea:required:valid {
 @media only screen and (min-width: 1600px) {
   .about-info__item {
     margin-bottom: 3.2rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .item{
+    height: auto;
+  }
+  .item img{
+    height: 100%;
   }
 }
 
@@ -6744,6 +6755,7 @@ form textarea:required:valid {
   border-top-left-radius: var(--_radius);
   -moz-border-radius-topright: var(--_radius);
   border-top-right-radius: var(--_radius);
+  max-height: 400px;
 }
 
 .cards__image img {
