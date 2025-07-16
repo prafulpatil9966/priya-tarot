@@ -3176,7 +3176,7 @@ form textarea:required:valid {
 
 .headline.headline-95-desktop,
 .headline.headline-centered {
-  margin-top: 9.5rem;
+  margin-top: 5.5rem;
 }
 
 @media only screen and (min-width: 768px) {
