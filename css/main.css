@@ -1284,7 +1284,7 @@ blockquote {
 
 .btn-default {
   width: 100%;
-  height: 10rem;
+  height: 8rem;
   padding: 0 7.6rem;
   -moz-border-radius: 5rem;
   border-radius: 5rem;
@@ -3476,7 +3476,7 @@ form textarea:required:valid {
 }
 
 .inner.inner-grid-bottom {
-  padding: 11rem 0 2.5rem 0;
+  padding: 9rem 0 2.5rem 0;
 }
 
 .inner.inner-stack {
